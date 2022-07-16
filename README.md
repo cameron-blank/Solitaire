@@ -1,5 +1,7 @@
 # Solitaire
-This app is meant to be a very simple demonstration of my skills. As of right now, it's on version 1.0. My goal is to add updates to further polish it, but it is a fully functioning game.
+This app is meant to be a very simple demonstration of my skills. As of right now, it's on version 1.0. My goal is to add updates to further polish it, but it is a fully functioning game of Solitaire.
+
+This is a Visual Studio .NET Framework project written in C#. If you want to play the game yourself, you can clone this repo and run the game in Visual Studio (with the correct packages installed). I'm working on the best way to make the installer available on here, but until then, the app will be very inconvenient to test out.
 
 ### Below are gifs of the gameplay demonstrating some of the features of this app:
 General Gameplay:
