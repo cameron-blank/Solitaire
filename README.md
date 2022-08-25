@@ -1,7 +1,7 @@
 # Solitaire
-This app is meant to be a very simple demonstration of my skills. As of right now, it's on version 1.0. My goal is to add updates to further polish it, but it is a fully functioning game of Solitaire.
+This app is meant to be a very simple demonstration of my skills. As of right now, it's on version 1.0.0. My goal is to add updates to further polish it, but it is currently a fully functioning game of Solitaire.
 
-This is a Visual Studio .NET Framework project written in C#. If you want to play the game yourself, you can clone this repo and run the game in Visual Studio (with the correct packages installed). I'm working on the best way to make the installer available on here, but until then, the app will be very inconvenient to test out.
+This is a Visual Studio .NET Framework project written in C#. If you want to play the game yourself, you can download the installer [here](https://github.com/cameron-blank/Solitaire/releases/tag/1.0.0).
 
 ### Below are gifs of the gameplay demonstrating some of the features of this app:
 General Gameplay:
@@ -15,6 +15,7 @@ Because this game is aimed at high-class individuals, I included a background co
 
 ### A few final notes:
 As you can see in the gifs, the game keeps track of your score at the top left. The math is simple: each card put in one of the foundations wins you $5. Each game costs you $52. A new game can be started with the menu in the top left-hand corner:
+
 ![image](https://user-images.githubusercontent.com/108784504/179337452-9da3f2cb-a171-4c03-ab1c-60569ac1f511.png)
 
 #### My plans for future updates:
